@@ -1,2 +1,1 @@
-# mymod-versioning
-
+# versioningPack
