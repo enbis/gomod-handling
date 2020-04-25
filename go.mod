@@ -1,3 +1,3 @@
-module github.com/enbis/mymod-versioning/v2
+module github.com/enbis/versioningPack/v2
 
 go 1.13
